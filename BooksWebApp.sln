@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksWebApp", "BooksWebApp\BooksWebApp.csproj", "{733D3B57-1621-4CB8-B192-ECF560101556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733D3B57-1621-4CB8-B192-ECF560101556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733D3B57-1621-4CB8-B192-ECF560101556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733D3B57-1621-4CB8-B192-ECF560101556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733D3B57-1621-4CB8-B192-ECF560101556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BF13F2-49D7-4BD9-89C8-2030CBE2A9C6}
+	EndGlobalSection
+EndGlobal
